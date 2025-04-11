@@ -1,6 +1,6 @@
-def line():
-    import math
+import math
 
+def line():
     pendiente=float(input("Ingrese el coeficiente A: "))
     ordenada=float(input("Ingrese el coeficiente B: "))
     
