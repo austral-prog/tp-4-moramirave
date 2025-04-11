@@ -2,8 +2,8 @@ import math
 
 def line():
 
-    pendiente=float(input("Ingrese el coeficiente A: "))
-    ordenada=float(input("Ingrese el coeficiente B: "))
+    pendiente= float(input("Ingrese el coeficiente A: "))
+    ordenada= float(input("Ingrese el coeficiente B: "))
 
     x1=float(input("Ingrese el coeficiente X1: "))
     x2=float(input("Ingrese el coeficiente X2: "))
